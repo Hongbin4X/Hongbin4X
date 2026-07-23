@@ -51,42 +51,7 @@ Code is the instrument. Taste, patience, and clear thinking are the multiplier.
 ## Activity
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Hongbin4X&show_icons=true&hide_border=true&theme=github_dark_dimmed&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Hongbin4X&show_icons=true&hide_border=true&theme=default&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="170" alt="Hongbin4X GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Hongbin4X&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbin4X&layout=compact&hide_border=true&theme=github_dark_dimmed"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbin4X&layout=compact&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="170" alt="Hongbin4X top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hongbin4X&layout=compact&hide_border=true&theme=default" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hongbin4X&theme=github-dark&hide_border=true&area=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hongbin4X&theme=github-light&hide_border=true&area=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img alt="Hongbin4X activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Hongbin4X&theme=github-light&hide_border=true&area=true" />
-  </picture>
+  <img src="./assets/activity.svg" alt="Hongbin4X local activity cards" width="100%" />
 </div>
 
 ## Current Signal
