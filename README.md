@@ -10,6 +10,10 @@
   <img alt="Rhythm" src="https://img.shields.io/badge/Rhythm-Code%20%2B%20Think%20%2B%20Ship-f97316?style=for-the-badge&labelColor=111827" />
 </p>
 
+<div align="center">
+  <img src="./assets/coding-beagle.svg" alt="Original animated beagle coding companion" width="520" />
+</div>
+
 ## About Me
 
 I like turning unfinished thoughts into things that run.
